@@ -1,5 +1,5 @@
 # Portfolio for Telling Stories with Data
-**Public** portfolio for Telling Stories with Data 
+Another **Public** portfolio
 
 # About me
 Hi! My name is Silvia, I'm a MAM exchange student from the University of Bologna. Before school, I worked in the visual arts and creative industries. After graduation, I want to keep doing that but use all this new knowledge from school to have a bigger positive impact.
