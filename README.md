@@ -1,4 +1,4 @@
-# portfolio-TSwD
+# portfolio-tswd
 **Public** portfolio for Telling Stories with Data 
 
 # About me
