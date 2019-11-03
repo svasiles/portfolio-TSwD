@@ -10,7 +10,7 @@ Hi! My name is Silvia, I'm a MAM exchange student from the University of Bologna
 # Portfolio
 Where **all** my time goes
 
-## Class Exercises (/classexercises.md)
+## [Class Exercises](/classexercises.md)
 
 ## Datawrapper for Corbyn
 
