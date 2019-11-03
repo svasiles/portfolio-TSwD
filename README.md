@@ -10,5 +10,6 @@ Hi! My name is Silvia, I'm a MAM exchange student from the University of Bologna
 # Portfolio
 Where **all** my time goes
 
-## [Class Exercises](/classexercises.md)
+## [Class exercises](/classexercises.md)
 
+## [Data visualizations](/visualizations.md)
