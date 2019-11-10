@@ -34,3 +34,8 @@ Highlight tabels of **General government debt-to-GDP ratio** for OECD countries,
 *Source: OECD, General government deb, https://data.oecd.org/gga/general-government-debt.htm*
 
 *Graphic made with Tableau*
+
+# Critique and data visualization
+## Critique 
+
+ ![Image](/auction turnover lots sold.png)
