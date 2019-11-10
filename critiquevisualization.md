@@ -25,3 +25,5 @@ For the redesign I decided to follow the information in the title, as I realized
 **Final version**
 
 ![Image2](/wireframe hw4-02.png)
+
+## [Main page](/README.md)
