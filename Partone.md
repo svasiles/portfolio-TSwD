@@ -10,6 +10,8 @@ The last part will include the call to action. Thinking of the type of users for
 # Initial sketches
 First draft of story. While working on this draft, some limitations to the current structure of the data became apparent. For the second draft the data will be modified to include regions, instead of countries as the charts are hard to read when all the countries are introduced. Also, including descriptive statistics could help in showing more generalized trends. 
 
+![Image](/first sketch-01.png)
+
 # The data
 The data set includes the following: 
 -	name of event (15 biennials where used: Baltic Triennial; Berlin Biennial for Contemporary Art, Biennale de Lyon, Bucharest Biennial, Documenta, EVA International, GIBCA, Istanbul Biennial, Liverpool Biennial, Ljubljana Biennial, Manifesta, Moscow Biennial, October Salon, Thessaloniki Biennial, Venice Biennial) 
