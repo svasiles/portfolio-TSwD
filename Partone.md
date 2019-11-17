@@ -29,3 +29,6 @@ The first step will be looking at the data and selecting the information I need 
 The second step will be creating wireframes and the storyboard. Working on both at the same time will help in making sure there is cohesion between the elements. This stage will also have a feedback aspect where the main question will be on the relevance of the charts and the overall story building up to the call for action.
 The third step will be to create a final version in Shorthand focusing on whether the information can be easily read and understood. From the feedback received in the previous step, the presentation for the call for action should be easier to create, while making sure it’s cohesive with the presentation of the data.
 For the final presentation I will present the main findings and highlight the connection to the call for action.
+
+## [Main page](/README.md)
+
