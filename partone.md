@@ -10,7 +10,9 @@ The second part with focus on the artists that have showed in these events compa
 The last part will include the call to action. Thinking of the type of users for this project (individuals and organization working in contemporary visual arts as well as people interested in issues of diversity and culture in general) the call to action would be to focus more on organizations facilitating and supporting artists that aren’t present or underrepresented in current shows and for individuals(artists, curators, historians) to become aware of this and try to build a larger network outside their local one.
 
 “As a reader, I want to **know how I am represented** so that I can **be more active and expand my network.”**
+
 “As a reader, I want to **see the evolution over time** so that I can **become aware and advocate for diversity if needed.”**
+
 “As a reader, I want to **see the success cases (events or countries)** so that I can **learn from them”**
 
 ## Initial sketches
@@ -35,7 +37,7 @@ From the dataset I plan to highlight the following:
 -	evolution over time: time-based charts in order to show the evolution over time (number of male artists vs female artists; country participation; region - Europe, America, Asia, Africa – participation; etc.)
 -	evolution of time and space: maps to show the geographic diversity of artists, the geographic provenance of artists and where they are exhibited.
 
-**The data set can be downloaded [here](/Data set final project TSwD.csv) **
+**The data set can be downloaded** [here](/Data set final project TSwD.csv)
 
 ## Method and medium
 For the final project I plan to use Shorthand to create a narrative and display the data. 
