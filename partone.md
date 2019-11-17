@@ -35,7 +35,7 @@ From the dataset I plan to highlight the following:
 -	evolution over time: time-based charts in order to show the evolution over time (number of male artists vs female artists; country participation; region - Europe, America, Asia, Africa – participation; etc.)
 -	evolution of time and space: maps to show the geographic diversity of artists, the geographic provenance of artists and where they are exhibited.
 
-The data set can be downloaded [here](/Data set final project TSwD.csv) 
+**The data set can be downloaded [here](/Data set final project TSwD.csv) **
 
 ## Method and medium
 For the final project I plan to use Shorthand to create a narrative and display the data. 
