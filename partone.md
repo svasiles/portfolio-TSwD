@@ -5,9 +5,9 @@ The project will focus on the changes in diversity of artists included in Europe
 The story will be based on a data set of the artists that have showed in 15 biennials from Europe in the past 15 years.  It will start with a short introduction into the issue of diversity in the arts and the important part biennials have as large visited events that are meant to show both outside and local artists. 
 The second part with focus on the artists that have showed in these events comparing the shift in demographics (gender and location – place of birth or place where artist resides) since 2005. Statistics that could be included are related to category to category and mostly explaining the evolution. 
 The last part will include the call to action. Thinking of the type of users for this project (individuals and organization working in contemporary visual arts as well as people interested in issues of diversity and culture in general) the call to action would be to focus more on organizations facilitating and supporting artists that aren’t present or underrepresented in current shows and for individuals(artists, curators, historians) to become aware of this and try to build a larger network outside their local one.
-**“As a reader, I want to know how I am represented so that I can be more active and expand my network.”
-“As a reader, I want to see the evolution over time so that I can become aware and advocate for diversity if needed.”
-“As a reader, I want to see the success cases (events or countries) so that I can learn from them”**
+“As a reader, I want to **know how I am represented** so that I can **be more active and expand my network.”**
+“As a reader, I want to **see the evolution over time** so that I can **become aware and advocate for diversity if needed.”**
+“As a reader, I want to **see the success cases (events or countries)** so that I can **learn from them”**
 
 ## Initial sketches
 First draft of story. While working on this draft, some limitations to the current structure of the data became apparent. For the second draft the data will be modified to include regions, instead of countries as the charts are hard to read when all the countries are introduced. Also, including descriptive statistics could help in showing more generalized trends. 
