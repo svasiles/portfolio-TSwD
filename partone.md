@@ -22,7 +22,7 @@ First draft of story. While working on this draft, some limitations to the curre
 ## The data
 
 
-The [data set](/M3 fisier de baza.csv) includes the following: 
+The data set includes the following: 
 -	name of event (15 biennials where used: Baltic Triennial; Berlin Biennial for Contemporary Art, Biennale de Lyon, Bucharest Biennial, Documenta, EVA International, GIBCA, Istanbul Biennial, Liverpool Biennial, Ljubljana Biennial, Manifesta, Moscow Biennial, October Salon, Thessaloniki Biennial, Venice Biennial) 
 -	location of the event
 -	year (2005-2020)
@@ -34,6 +34,8 @@ From the dataset I plan to highlight the following:
 -	general statistics for categorical-categorial values for the current year; 
 -	evolution over time: time-based charts in order to show the evolution over time (number of male artists vs female artists; country participation; region - Europe, America, Asia, Africa – participation; etc.)
 -	evolution of time and space: maps to show the geographic diversity of artists, the geographic provenance of artists and where they are exhibited.
+
+The data set can be downloaded [here](/Data set final project TSwD.csv) 
 
 ## Method and medium
 For the final project I plan to use Shorthand to create a narrative and display the data. 
