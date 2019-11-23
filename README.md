@@ -14,7 +14,7 @@ Where **all** my time goes
 
 ## [Class exercises](/classexercises.md)
 
-## [Data visualizations](/visualizations.md)
+## [Data visualizations](/visualizations/visualizations.md)
 
 ## [Critique and visualization](/critiquevisualization.md)
 
