@@ -19,7 +19,7 @@ The last part will include the call to action. Thinking of the type of users for
 
 First draft of story. While working on this draft, some limitations to the current structure of the data became apparent. For the second draft the data will be modified to include regions, instead of countries as the charts are hard to read when all the countries are introduced. Also, including descriptive statistics could help in showing more generalized trends. 
 
-![Image](/first sketch-01.png)
+![Image](/Part one/first sketch-01.png)
 
 ## The data
 
@@ -37,7 +37,7 @@ From the dataset I plan to highlight the following:
 -	evolution over time: time-based charts in order to show the evolution over time (number of male artists vs female artists; country participation; region - Europe, America, Asia, Africa – participation; etc.)
 -	evolution of time and space: maps to show the geographic diversity of artists, the geographic provenance of artists and where they are exhibited.
 
-**The data set can be downloaded** [here](/Data set final project TSwD.csv)
+**The data set can be downloaded** [here](/Part one/Data set final project TSwD.csv)
 
 ## Method and medium
 For the final project I plan to use Shorthand to create a narrative and display the data. 
@@ -48,6 +48,3 @@ The second step will be creating wireframes and the storyboard. Working on both 
 The third step will be to create a final version in Shorthand focusing on whether the information can be easily read and understood. From the feedback received in the previous step, the presentation for the call for action should be easier to create, while making sure it’s cohesive with the presentation of the data.
 
 For the final presentation I will present the main findings and highlight the connection to the call for action.
-
-## [Main page](/README.md)
-
