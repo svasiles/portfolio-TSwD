@@ -16,6 +16,6 @@ Where **all** my time goes
 
 ## [Data visualizations](/visualizations/visualizations.md)
 
-## [Critique and visualization](/critiquevisualization.md)
+## [Critique and visualization](/critique/critiquevisualization.md)
 
 
