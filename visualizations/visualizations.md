@@ -35,4 +35,3 @@ Highlight tabels of **General government debt-to-GDP ratio** for OECD countries,
 
 *Graphic made with Tableau*
 
-## [Main page](/README.md)
