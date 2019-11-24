@@ -12,7 +12,9 @@ Where **all** my time goes
 
 ## [Part One for final project](/Part one/partone.md)
 
-## [Class exercises](/classexercises.md)
+
+
+## [Class exercises](/exercises/classexercises.md)
 
 ## [Data visualizations](/visualizations/visualizations.md)
 
