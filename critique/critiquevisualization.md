@@ -1,7 +1,7 @@
 # Critique and data visualization
 ## Critique
 
- ![Image](/auction turnover lots sold.png)
+ ![Image](/critique/auction turnover lots sold.png)
  
 *Source: Artprice,"The Contemporary Art Market Report 2019", Accessed November 10, 2019, https://www.artprice.com/artprice-reports/the-contemporary-art-market-report-2019/general-synopsis*
 
@@ -16,7 +16,7 @@ For wireframes, I started with a couple of very simple, fast sketches, and then 
 
 **These are the 4 versions of the wireframe made with Illustrator that were used for feedback**
 
- ![Image2](/wireframe hw4-01.png)
+ ![Image2](/critique/wireframe hw4-01.png)
 
 ______
 
@@ -24,6 +24,6 @@ For the redesign I decided to follow the information in the title, as I realized
 
 **Final version**
 
-![Image2](/wireframe hw4-02.png)
+![Image2](/critique/wireframe hw4-02.png)
 
-## [Main page](/README.md)
+
