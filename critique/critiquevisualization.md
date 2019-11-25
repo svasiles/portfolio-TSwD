@@ -1,7 +1,7 @@
 # Critique and data visualization
 ## Critique
 
- ![Image](/critique/auction turnover lots sold.png)
+ ![Image](critique/auction turnover lots sold.png)
  
 *Source: Artprice,"The Contemporary Art Market Report 2019", Accessed November 10, 2019, https://www.artprice.com/artprice-reports/the-contemporary-art-market-report-2019/general-synopsis*
 
