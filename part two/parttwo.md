@@ -25,7 +25,7 @@ Through these questions my goal was to understand their perspective on the story
 
 **This is the first mock-up that was sent with the questions**
 
-![Image](part two/second draft-01.png)
+![Image](https://github.com/svasiles/portfolio-tswd/blob/master/part%20two/second%20draft-01.png)
 
 **The answers**
 The feedback and the ideas from the conversations were put together and used for the second mock-up
