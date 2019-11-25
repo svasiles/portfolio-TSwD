@@ -40,8 +40,9 @@ This is the revised mock-up created from the user research.
 
 ![Image3](/second03.png)
 
-*Concerns:*
-At this stage the third idea from the data is still not complete, which can be seen the mock-up.
+*Concerns and further steps:*
+At this stage the third idea from the data is still not complete.
+More information from past research will be added to the findings.
 
 *Thoughts on the user research:*
 The user research gave me an better perspective on what the project is lacking in terms of using the data, and also confirmed some of my own concerns on what wasn't okay with the project
