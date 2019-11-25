@@ -16,7 +16,7 @@ For wireframes, I started with a couple of very simple, fast sketches, and then 
 
 **These are the 4 versions of the wireframe made with Illustrator that were used for feedback**
 
- ![Image2](/critique/wireframe hw4-01.png)
+ ![Image2](critique/wireframe hw4-01.png)
 
 ______
 
@@ -24,6 +24,6 @@ For the redesign I decided to follow the information in the title, as I realized
 
 **Final version**
 
-![Image2](/critique/wireframe hw4-02.png)
+![Image2](critique/wireframe hw4-02.png)
 
 
