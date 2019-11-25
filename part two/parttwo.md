@@ -25,20 +25,20 @@ Through these questions my goal was to understand their perspective on the story
 
 **This is the first mock-up that was sent with the questions**
 
-![Image](/part two/second draft-01.png)
+![Image](part two/second draft-01.png)
 
 **The answers**
 The feedback and the ideas from the conversations were put together and used for the second mock-up
 
 These are the ideas from the feedback and conversations
 
-![Image](/part two/second draft-02.png)
+![Image](part two/second draft-02.png)
 
 ## The revised mock-up
 
 This is the revised mock-up created from the user research.
 
-![Image](/part two/second draft-03.png)
+![Image](part two/second draft-03.png)
 
 *Concerns:*
 At this stage the third idea from the data is still not complete, which can be seen the mock-up.
