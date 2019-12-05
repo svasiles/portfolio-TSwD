@@ -111,7 +111,7 @@ Another aspect that I tried to address from the feedback, was the concern raised
 
 ![Screenshot audience call](/Adnotare 2019-12-04 224715.png)
 
-![Gender inequality map](/maps-03.jpg)
+![Gender inequality map](/maps-03.png)
 
 Further feedback after the part II assignment was limited due to time constraints, but the feedback received pointed to making the text clear and accessible even for those that have no connections with the visual arts, especially contemporary art. The changes for that were mostly included in the text. 
 
@@ -123,13 +123,11 @@ Another aspect, working with Shorthand and understanding the possibilities but a
 
 In working on the final project, building the story also included adding elements to the dataset. Since this was a set that I made, it was easier to understand the data and what type of information would help me add depth to the story. As such, the final dataset also includes the Gender Inequality Index for each country and the curator and the gender of the curator for each exhibition. These additions helped in making the right visualization that would clearly show the idea I was presenting in the narrative. For example, the small differences between male and female curators in terms of selecting women artists showed that gender inequality also has to do with education and pressure to succeed.
 
-![Curator chart](/graphs final_Artboard 8.jpg)
+![Curator chart](/graphs final_Artboard 8.png)
 
 There were two changes I made after working on the presentation and the feedback from it. One reminded me that the information could show inequality at a more granular level, not just overall trends, and the other made me more aware of how interconnected visual arts are and how the call to action is a joint effort by all those involved. And so, the one of the last graphs added was to show difference in male and female artists based on the number of times each artist has been in one of the exhibitions. What I considered was that participation in these events meant that the more events the more successful the artists, which shows some information at the individual level. The other was a small diagram of the different individuals and organizations in the art world and how they can influence the visibility of artists.
 
-![Successful artists](/graphs final-05.jpg)
-
-![Diagram](/system-01 for git.jpg)
+![Successful artists](/graphs final-05.png)
 
 **Extra information**
 
