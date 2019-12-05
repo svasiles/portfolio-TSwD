@@ -10,6 +10,8 @@ Hi! My name is Silvia, I'm a MAM exchange student from the University of Bologna
 # Portfolio
 Where **all** my time goes
 
+## [Final project](/finalproject.md)
+
 ## [Part Two for final project](/part two/parttwo.md)
 
 ## [Part One for final project](/Part one/partone.md)
