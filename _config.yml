@@ -1,23 +1,68 @@
-# Site Build Settings
+site: Ultra
+url: https://example.com
+title: Ultra
+description: Ultra - Super fast Jekyll theme, weighs under 2kb
+twitter:
+  username: yourusername
+  card: summary
 
-# jekyll-paginate configuration
-paginate:            5
+permalink: pretty
 
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+paginate:            1000
+paginate_path:       "/page:num/"
+baseurl:             ""
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
 
 sass:
-  sass_dir: assets/css
-  style: :nested
+  sass_dir:          _sass
+  style:            :compressed
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "SVasilescu"
-description:	       "Portfolio Time"
-author:              " "
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap  
 
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  projects:
+    output: true
+    permalink: /projects/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+      
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
