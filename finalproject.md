@@ -18,7 +18,7 @@ The **last part** will include the call to action. Thinking of the type of users
 
 First draft of story. While working on this draft, some limitations to the current structure of the data became apparent. For the second draft the data will be modified to include regions, instead of countries as the charts are hard to read when all the countries are introduced. Also, including descriptive statistics could help in showing more generalized trends. 
 
-IMAGE!
+![image](/first sketch-01.png)
 
 ## The data
 The data includes the following: 
@@ -75,7 +75,7 @@ The interview I emailed the 3 people selected the interview questions and a mock
 
 This is the first mock-up that was sent with the questions
 
-Image1
+![Image3](/second01.png)
 
 **The answers**
 
@@ -83,13 +83,13 @@ The feedback and the ideas from the conversations were put together and used for
 
 These are the ideas from the feedback and conversations
 
-Image2
+![Image3](/second02.png)
 
 ## The revised mock-up
 
 This is the revised mock-up created from the user research.
 
-Image3
+![Image3](/second03.png)
 
 Concerns and further steps:
 
@@ -109,9 +109,9 @@ Based on this audience I chose the three individuals to provide feedback: a fema
 
 Another aspect that I tried to address from the feedback, was the concern raised by one of the interviewees about what is the call for action for the audience. In my research I concluded that the responsibility was only of the institutions, curators, or gallery owner, but this made me think of how to shape the story that would compel an art consumer to go to attend more exhibitions by female artists or artists of color. The graphs that were made were the gender inequality index, which sets the art world in a global context, more easily relatable to the non-arts audience.
 
-Screenshot audience call
+![Screenshot audience call](/Adnotare 2019-12-04 224715.png)
 
-Gender inequality map
+![Gender inequality map](/maps-03.jpg)
 
 Further feedback after the part II assignment was limited due to time constraints, but the feedback received pointed to making the text clear and accessible even for those that have no connections with the visual arts, especially contemporary art. The changes for that were mostly included in the text. 
 
@@ -123,17 +123,17 @@ Another aspect, working with Shorthand and understanding the possibilities but a
 
 In working on the final project, building the story also included adding elements to the dataset. Since this was a set that I made, it was easier to understand the data and what type of information would help me add depth to the story. As such, the final dataset also includes the Gender Inequality Index for each country and the curator and the gender of the curator for each exhibition. These additions helped in making the right visualization that would clearly show the idea I was presenting in the narrative. For example, the small differences between male and female curators in terms of selecting women artists showed that gender inequality also has to do with education and pressure to succeed.
 
-Curator chart
+![Curator chart](/graphs final_Artboard 8.jpg)
 
 There were two changes I made after working on the presentation and the feedback from it. One reminded me that the information could show inequality at a more granular level, not just overall trends, and the other made me more aware of how interconnected visual arts are and how the call to action is a joint effort by all those involved. And so, the one of the last graphs added was to show difference in male and female artists based on the number of times each artist has been in one of the exhibitions. What I considered was that participation in these events meant that the more events the more successful the artists, which shows some information at the individual level. The other was a small diagram of the different individuals and organizations in the art world and how they can influence the visibility of artists.
 
-Successful artists
+![Successful artists](/graphs final-05.jpg)
 
-Diagram
+![Diagram](/system-01 for git.jpg)
 
 **Extra information**
 
-There is one information that was important to mention, and that was the way the dataset was made. The data set was created from biennial catalogues and artfacts.net, where information of the name of the artist, country of origin, gender, and age were extracted. In the first phase approximately 4000 out of 6300 artists had the all the complete information needed. The rest of the information was found using google search, but since the age was missing from a third of the artists and was the hardest to find, I decided to not use it in the final set. As such, by eliminating age, only 1000 artists were missing the country of origin and gender. Finding this information was done using online searches and other websites like mutualart.com and artilinkart.com (a Chinese website that has an artist database)
+There is one information that was important to mention, and that was the way the dataset was made. The data set was created from biennial catalogues and artfacts.net, where information of the name of the artist, country of origin, gender, and age were extracted. In the first phase approximately 4000 out of 6300 artists had the all the complete information needed. The rest of the information was found using google search, but since the age was missing from a third of the artists and was the hardest to find, I decided to not use it in the final set. As such, by eliminating age, only 1000 artists were missing the country of origin and gender. Finding this information was done using online searches and other websites like mutualart.com and artilinkart.com (a Chinese website that has an artist database). The final version of the dataset can be downloaded [here](/Data set final project TSwD.csv)
 
 
 The final project is available at this link:
