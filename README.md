@@ -1,6 +1,6 @@
 ![image](/github-01.jpg)
 
-Another **public** portfolio
+**Public**! For all to see!
 
 ![image](/github-02.jpg)
 
