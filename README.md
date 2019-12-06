@@ -14,7 +14,7 @@ Unbias, aesthetically pleasant, easy to read, and convincing way to vizualize da
 Where a big chunck of time went:
 
 # [Final project](/finalproject.md)
-# [Critiques]
+# [Critiques](/critiquevisualization.md)
 # [Data visualizations]
 # [Other projects](/classexercises.md)
 
