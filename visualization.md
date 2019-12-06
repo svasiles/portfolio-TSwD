@@ -29,7 +29,7 @@ Prolonged low ratios can affect the EU economy.
 
 Highlight tabels of **General government debt-to-GDP ratio** for OECD countries, 1995-2018
 
-(/General debt-to-GDP ratio.png)
+![image](/General debt-to-GDP ratio.png)
 
 *Source: OECD, General government deb, https://data.oecd.org/gga/general-government-debt.htm*
 
