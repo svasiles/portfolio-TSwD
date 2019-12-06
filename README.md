@@ -10,7 +10,9 @@ Unbias, aesthetically pleasant, easy to read, and convincing way to vizualize da
 
 # Portfolio
 ![image](/photos/github-01.jpg)
-Where all my time went:
+
+Where a big chunck of time went:
+
 # [Final project](/finalproject.md)
 # [Critiques]
 # [Data visualizations]
