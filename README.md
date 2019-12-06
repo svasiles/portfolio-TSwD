@@ -1,4 +1,4 @@
-# Portfolio for Telling Stories with Data
+# Portfolio (Telling Stories with Data)
 Another **public** portfolio
 
 # About me
@@ -9,6 +9,7 @@ Hi! My name is Silvia. I'm a MAM exchange student from the University of Bologna
 Unbias, aesthetically pleasant, easy to read, and convincing way to vizualize data. With the help of my drafting skills I hope to learn as much as I can on data visualization.
 
 # Portfolio
+![image](/photos/github-01.jpg)
 Where all my time went:
 # [Final project](/finalproject.md)
 # [Critiques]
