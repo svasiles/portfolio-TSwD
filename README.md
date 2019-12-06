@@ -16,4 +16,5 @@ Where a big chunck of time went:
 # [Final project](/finalproject.md)
 # [Critiques]
 # [Data visualizations]
+# [Other projects](/classexercises.md)
 
